@@ -1,0 +1,4 @@
+mkdir -p shared
+echo "[]" > shared/broadcasts.json
+echo '{"running": false}' > shared/state.json
+echo "[]" > shared/groups.json
